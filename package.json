@@ -1,0 +1,25 @@
+{
+  "name": "nodepractice",
+  "version": "1.0.0",
+  "description": "Simple Node Practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpark799/nodePractice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpark799/nodePractice/issues"
+  },
+  "homepage": "https://github.com/jpark799/nodePractice#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  },
+  "dependencies": {
+    "uuid": "^3.3.2"
+  }
+}
